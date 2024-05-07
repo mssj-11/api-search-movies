@@ -1,4 +1,4 @@
-# Search Movies App
+# Search Movies App in React
 
 
 
@@ -6,6 +6,7 @@
 
 ### API [OMDb](http://www.omdbapi.com/)
 
+#   [DEMO](https://fullmovies-react.netlify.app/)
 <p align="center"><img src="demo.png" /></p>
 
 
