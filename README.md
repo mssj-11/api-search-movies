@@ -1,4 +1,5 @@
 # Search Movies App in React
+La version actual gratuita de la API **omdbapi** solo permite TESTEAR la api de manera local.
 
 
 
